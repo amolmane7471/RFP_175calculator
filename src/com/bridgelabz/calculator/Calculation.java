@@ -7,6 +7,8 @@ public class Calculation {
 		int a = 10,b=5,c;
 		c=a+b;
 		System.out.println("addition of "+a+" and " +b+" is="+c);
+		c=a-b;
+		System.out.println(+a+"-"+b+"="+c);
 	}
 
 }
